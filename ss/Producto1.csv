@@ -1,0 +1,5 @@
+pro_cod;pro_referencia;pro_descripcion;pro_descrip_ing;pro_embalaje;pro_precio_lista;pro_stock;pro_fecha;pro_cantidad;pro_valor_compra
+1;hp;Servidor;This is a first product;embalaje 134j-1;14;50;3/10/2017;10;14500
+2;tplink;enrutador ;router;caja;45;68;3/10/2017;20;55
+3;LG;televisor;TV;caja grande;1200;15;3/10/2017;20;1285
+4;SAMSUMG;Celular;Smartphone;caja pequeña;560;35;3/10/2017;5;580
